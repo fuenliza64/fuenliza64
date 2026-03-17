@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero con más de 30 años de experiencia en desarrollo de software y sistemas empresariales.  
+Ingeniero con más de 35 años de experiencia en desarrollo de software y sistemas empresariales.  
 Hoy construyo productos SaaS propios usando Python, FastAPI, PostgreSQL y Docker — de la idea al deploy.
 
 - 🚚 Creador de **Nexiogen / Última Milla** (SaaS multi-tenant logística con optimizador VRP — en producción en nexiogen.com)
