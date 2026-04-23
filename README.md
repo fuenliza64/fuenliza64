@@ -12,6 +12,7 @@ Hoy construyo productos SaaS propios usando Python, FastAPI, PostgreSQL y Docker
 
 - 🚚 Creador de **Nexiogen / Última Milla** (SaaS multi-tenant logística con optimizador VRP — en producción en nexiogen.com)
 - 🏛️ Fundador de **NexoEstado** (SaaS de licitaciones públicas en Chile)
+- 🏥 Creador de **MedLic Core** (SaaS de subsidios licencias médicas)
 - 📷 Fundador de **SafeTrip Cam** (app de evidencia ante incidentes — MVP en producción)
 - 🤖 Explorando **IA aplicada al desarrollo** con Claude Code y Python
 - 🏗️ Stack actual: `FastAPI` `PostgreSQL` `Docker` `Python` `Nginx` `Cloudflare`
@@ -47,7 +48,7 @@ Hoy construyo productos SaaS propios usando Python, FastAPI, PostgreSQL y Docker
 | 🚚 **Nexiogen — Última Milla** | SaaS multi-tenant de logística en producción. Optimizador VRP Clarke-Wright, POD móvil (GPS+foto+firma digital), dashboard con mapa Leaflet, 12 endpoints activos. | FastAPI · PostgreSQL · Docker · RLS · Leaflet |
 | 🏛️ **NexoEstado** | SaaS para monitoreo de licitaciones públicas en Chile. API REST con auth JWT, Docker, Cloudflare. | FastAPI · PostgreSQL · Docker |
 | 📷 **SafeTrip Cam** | App de evidencia ante incidentes de tránsito. MVP en producción en safetripcam.com | FastAPI · PostgreSQL · iOS |
-| 🏥 **HOLOS** | Gestión y recuperación de licencias médicas para instituciones de salud | Python · ETL · PostgreSQL |
+| 🏥 **MedLic Core** | SaaS de gestión y recuperación de licencias médicas municipales. ETL automatizado, ML de priorización (8.051 scores), 46.250 LM en producción. 2 municipalidades activas. | Python · FastAPI · PostgreSQL · scikit-learn · ETL |
 | 📊 **March ML Mania 2026** | Predicción de torneos NCAA en Kaggle. Modelos ML con datos históricos | Python · scikit-learn · Pandas |
 
 ---
